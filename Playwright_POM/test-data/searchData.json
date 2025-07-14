@@ -1,0 +1,24 @@
+{
+    "productName": {
+        "searchKey": "ProductName",
+        "searchValue": "Automate Product-15"
+    },
+    "productCode": {
+        "searchKey": "ProductCode",
+        "searchValue": "zzzzzz"
+    },
+    "skuNumber": {
+        "searchKey": "ProductSKUNumber",
+        "searchValue": "00000000011111111112222222222333333333344444444445"
+    },
+    "supplierCode": {
+        "searchKey": "SupplierCode",
+        "searchValue": "HEHEHAHA"
+    },
+    "brand": {
+        "searchKey": "ProductBrandCode",
+        "searchValue": "QA001"
+    }
+}
+
+  

@@ -1,0 +1,23 @@
+{
+   
+    "productName": {
+        "sortBy": "product_name",
+        "sortOrder": "DESC"
+    },
+    "retailPrice": {
+        "sortBy": "retail_sales_price",
+        "sortOrder": "ASC"
+    },
+    "unitCost": {
+        "sortBy": "unit_cost",
+        "sortOrder": "DESC"
+    },
+    "categoryCode": {
+        "sortBy": "category_code",
+        "sortOrder": "ASC"
+    },
+    "productCode": {
+        "sortBy": "product_code",
+        "sortOrder": "DESC"
+    }
+}

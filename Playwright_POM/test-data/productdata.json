@@ -1,0 +1,49 @@
+{
+    "product1": {
+        "productname": "20",    
+        "retailprice": "100",
+        "unitcost": "99",
+        "businessunit": "SGO Stock Item"
+    },
+   
+    "allFieldsNull": {
+        "productname": "",    
+        "retailprice": "",
+        "unitcost": "",
+        "businessunit": ""
+    },
+
+    "productNameNull": {
+        "productname": "",     
+        "retailprice": "100",
+        "unitcost": "99",
+        "businessunit": "SGO Stock Item"
+    },
+
+    "retailPriceNull": {
+        "productname": "13",     
+        "retailprice": "",
+        "unitcost": "99",
+        "businessunit": "Casino Stock Item"
+    },
+
+    "unitCostNull": {
+        "productname": "14",       
+        "retailprice": "100",
+        "unitcost": "",
+        "businessunit": "Special items"
+        
+    },
+
+    "BusinessUnitCostNull": {
+        "productname": "15",       
+        "retailprice": "100",
+        "unitcost": "60",
+        "businessunit": ""
+        
+    }
+}
+
+
+
+

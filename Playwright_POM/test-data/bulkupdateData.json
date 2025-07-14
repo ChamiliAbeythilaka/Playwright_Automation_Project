@@ -1,0 +1,12 @@
+[
+    {
+        "searchKey": "product-code",
+        "searchValue": "PRODUCT_CODE_123",
+        "action": "1"  
+    },
+    {
+        "searchKey": "product-code",
+        "searchValue": "PRODUCT_CODE_456",
+        "action": "2"  
+    }
+]

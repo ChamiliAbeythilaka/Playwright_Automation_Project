@@ -1,0 +1,14 @@
+{
+    "productName": {
+        "searchKey": "ProductName",
+        "searchValue": "Automate Product-12",
+        "newProductName": "QA_UpdatedProductName1"
+    },
+    
+    "productCode": {
+        "searchKey": "ProductCode",
+        "searchValue": "RG00000026",
+        "newProductName": "QA_UpdatedProductName2"
+    }
+}
+
